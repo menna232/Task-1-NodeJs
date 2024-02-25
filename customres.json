@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "fName" :"menna",
+        "lName":"ahmed",
+        "age":21,
+        "city":"KSA"
+    },
+    {
+        "id": 2,
+        "fName" :"anjlos",
+        "lName":"emad",
+        "age":27,
+        "city":"UAE"
+    },
+    {
+        "id": 3,
+        "fName" :"mrina",
+        "lName":"hany",
+        "age":24,
+        "city":"cairo"
+    },
+    {
+        "id": 4,
+        "fName" :"mohamed",
+        "lName":"ali",
+        "age":29,
+        "city":"alex"
+    },
+    {
+        "id": 5,
+        "fName" :"hassan",
+        "lName":"ahmed",
+        "age":26,
+        "city":"cairo"
+    },
+    {
+        "id": 6,
+        "fName" :"zika",
+        "lName":"essam",
+        "age":31,
+        "city":"doki"
+    },
+    {
+        "id": 7,
+        "fName" :"moaaz",
+        "lName":"sherif",
+        "age":21,
+        "city":"cairo"
+    },
+    {
+        "id": 8,
+        "fName" :"mohamed",
+        "lName":"nasser",
+        "age":26,
+        "city":"giza"
+    },
+    {
+        "id": 9,
+        "fName" :"ziad",
+        "lName":"khaled",
+        "age":22,
+        "city":"USA"
+    },
+    {
+        "id": 10,
+        "fName" :"yasser",
+        "lName":"khlifa",
+        "age":25,
+        "city":"aswan"
+    }
+
+]
